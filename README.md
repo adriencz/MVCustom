@@ -1,4 +1,4 @@
-# MVCustom
+# Projet openclassrooms MVCustom
 Architecture MVC PHP préprogrammée 
 
 *Cette dernière contient les méthodes nécessaires à la création d'un simple site. Elle a été simplifiée au maximum afin de comprendre le principe et la création d'un Pattern MVC en PHP.*
